@@ -1,0 +1,9 @@
+{
+	"powerList": [
+		{"name": "报表","model": "ReportList"},
+		{"name": "所有会员","model": "AllMember"},
+		{"name": "私教列表","model": "AllPrivate"},
+		{"name": "团课","model": "AllLeagueClass"},
+		{"name": "健身卡管理","model": "CardManageList"}
+	]
+}

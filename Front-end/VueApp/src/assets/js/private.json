@@ -1,0 +1,886 @@
+{
+	"week":[
+		{
+			"time": "周一",
+			"date": "12.11",
+			"timeList": [
+				{
+					"timeQuantum" : "8:00-9:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "8:30-9:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:00-10:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:30-10:30",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:00-11:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:30-11:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "11:00-12:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "11:30-12:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:00-13:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:30-13:30",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "13:00-14:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "13:30-14:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:00-15:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:30-15:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:00-16:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:30-16:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "16:00-17:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				}
+			]
+		},
+		{
+			"time": "周二",
+			"date": "12.12",
+			"timeList": [
+				{
+					"timeQuantum" : "8:00-9:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "8:30-9:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:00-10:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:30-10:30",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:00-11:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:30-11:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "11:00-12:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "11:30-12:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:00-13:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:30-13:30",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "13:00-14:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "13:30-14:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:00-15:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:30-15:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:00-16:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:30-16:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "16:00-17:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				}
+			]
+		},
+		{
+			"time": "周三",
+			"date": "12.13",
+			"timeList": [
+				{
+					"timeQuantum" : "8:00-9:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "8:30-9:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:00-10:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:30-10:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:00-11:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:30-11:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "11:00-12:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "11:30-12:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:00-13:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:30-13:30",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "13:00-14:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "13:30-14:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:00-15:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:30-15:30",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:00-16:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:30-16:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "16:00-17:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				}
+			]
+		},
+		{
+			"time": "周四",
+			"date": "12.14",
+			"timeList": [
+				{
+					"timeQuantum" : "8:00-9:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "8:30-9:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:00-10:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:30-10:30",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:00-11:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:30-11:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "11:00-12:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "11:30-12:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:00-13:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:30-13:30",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "13:00-14:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "13:30-14:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:00-15:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:30-15:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:00-16:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:30-16:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "16:00-17:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				}
+			]
+		},
+		{
+			"time": "周五",
+			"date": "12.15",
+			"timeList": [
+				{
+					"timeQuantum" : "8:00-9:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "8:30-9:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:00-10:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:30-10:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:00-11:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:30-11:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "11:00-12:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "11:30-12:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:00-13:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:30-13:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "13:00-14:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "13:30-14:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:00-15:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "14:30-15:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:00-16:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:30-16:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "16:00-17:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				}
+			]
+		},
+		{
+			"time": "周六",
+			"date": "12.16",
+			"timeList": [
+				{
+					"timeQuantum" : "8:00-9:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "8:30-9:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:00-10:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:30-10:30",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:00-11:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:30-11:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "11:00-12:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "11:30-12:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:00-13:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:30-13:30",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "13:00-14:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "13:30-14:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:00-15:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:30-15:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:00-16:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:30-16:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "16:00-17:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				}
+			]
+		},
+		{
+			"time": "周日",
+			"date": "12.17",
+			"timeList": [
+				{
+					"timeQuantum" : "8:00-9:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "8:30-9:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:00-10:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "9:30-10:30",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:00-11:00",
+					"state": "2",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "10:30-11:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "11:00-12:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "11:30-12:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:00-13:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "12:30-13:30",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				},{
+					"timeQuantum" : "13:00-14:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "13:30-14:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:00-15:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "14:30-15:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:00-16:00",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "15:30-16:30",
+					"state": "1",
+					"userInfor":{
+						"userName":"",
+						"userPhone":""
+					}
+				},{
+					"timeQuantum" : "16:00-17:00",
+					"state": "0",
+					"userInfor":{
+						"userName":"某某",
+						"userPhone":"17811111111"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,162 @@
+{
+	"timeList50": [
+		{
+			"state": "1",
+			"id" : "1",
+			"content": "大厅"
+		},{
+			"state": "2",
+			"id" : "2",
+			"content": "操房"
+		},{
+			"state": "3",
+			"id" : "3",
+			"content": "办公室"
+		},{
+			"state": "4",
+			"id" : "4",
+			"content": "瑜伽室"
+		},{
+			"state": "5",
+			"id" : "5",
+			"content": "洗浴间"
+		},{
+			"state": "5",
+			"id" : "6",
+			"content": "洗浴间"
+		},{
+			"state": "5",
+			"id" : "7",
+			"content": "洗浴间"
+		},{
+			"state": "5",
+			"id" : "8",
+			"content": "洗浴间"
+		}
+	],
+	"timeList51": [
+		{
+			"state": "1",
+			"id" : "1",
+			"content": "大厅"
+		},{
+			"state": "2",
+			"id" : "2",
+			"content": "操房"
+		},{
+			"state": "3",
+			"id" : "3",
+			"content": "办公室"
+		},{
+			"state": "4",
+			"id" : "4",
+			"content": "瑜伽室"
+		},{
+			"state": "2",
+			"id" : "5",
+			"content": "操房"
+		},{
+			"state": "3",
+			"id" : "6",
+			"content": "办公室"
+		}
+	],"timeList52": [
+		{
+			"state": "1",
+			"id" : "1",
+			"content": "大厅"
+		},{
+			"state": "2",
+			"id" : "2",
+			"content": "操房"
+		},{
+			"state": "3",
+			"id" : "3",
+			"content": "办公室"
+		},{
+			"state": "4",
+			"id" : "4",
+			"content": "瑜伽室"
+		},{
+			"state": "5",
+			"id" : "5",
+			"content": "洗浴间"
+		},{
+			"state": "5",
+			"id" : "6",
+			"content": "洗浴间"
+		},{
+			"state": "5",
+			"id" : "7",
+			"content": "洗浴间"
+		},{
+			"state": "5",
+			"id" : "8",
+			"content": "洗浴间"
+		}
+	],"timeList53": [
+		{
+			"state": "1",
+			"id" : "1",
+			"content": "大厅"
+		},{
+			"state": "2",
+			"id" : "2",
+			"content": "操房"
+		},{
+			"state": "3",
+			"id" : "3",
+			"content": "办公室"
+		},{
+			"state": "4",
+			"id" : "4",
+			"content": "瑜伽室"
+		},{
+			"state": "5",
+			"id" : "5",
+			"content": "洗浴间"
+		},{
+			"state": "5",
+			"id" : "6",
+			"content": "洗浴间"
+		}
+	],"timeList54": [
+		{
+			"state": "1",
+			"id" : "1",
+			"content": "大厅"
+		}
+	],"timeList55": [
+		{
+			"state": "1",
+			"id" : "1",
+			"content": "大厅"
+		},{
+			"state": "5",
+			"id" : "2",
+			"content": "洗浴间"
+		},{
+			"state": "5",
+			"id" : "3",
+			"content": "洗浴间"
+		},{
+			"state": "5",
+			"id" : "4",
+			"content": "洗浴间"
+		}
+	],"timeList56": [
+		{
+			"state": "1",
+			"id" : "1",
+			"content": "大厅"
+		},{
+			"state": "2",
+			"id" : "2",
+			"content": "操房"
+		},{
+			"state": "3",
+			"id" : "3",
+			"content": "办公室"
+		}
+	]
+}

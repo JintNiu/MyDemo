@@ -1,3 +1,5 @@
 # Demo
 
-Vue + SpringBoot + MySQL 的一个小 Demo
+to 课设：
+Vue + SpringBoot + MySQL 
+

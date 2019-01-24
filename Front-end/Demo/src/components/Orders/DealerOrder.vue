@@ -66,15 +66,15 @@ export default {
   mounted() {
     // 加载数据
     console.log("loading data.");
-    this.$ajax({
-      method: "get",
-      url: "http://localhost:8080/......"
-    }).then(response => {
-      console.log(response.data);
-      for (let i = 0; i < response.data.length; i++) {
-        this.dealerOrderInfo.push(response.data[i]);
-      }
-    });
+    // this.$ajax({
+    //   method: "get",
+    //   url: "http://localhost:8080/......"
+    // }).then(response => {
+    //   console.log(response.data);
+    //   for (let i = 0; i < response.data.length; i++) {
+    //     this.dealerOrderInfo.push(response.data[i]);
+    //   }
+    // });
   },
   methods: {
     // 新建订单
